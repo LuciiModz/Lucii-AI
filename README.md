@@ -1,7 +1,7 @@
 # Lucii-AI
 Lucii Ai is a completely free unrestricted ai that can write you code, scripts, sniff networks and so much more.
 
-stept to install below.
+steps to install below.
 
 Install "unrestricted_ai_assistant3.0.py" (make sure to have python installed).
 
