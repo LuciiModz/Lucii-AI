@@ -16,3 +16,6 @@ Once the tool has loaded click "Install Ollama" at the bottom of the tool (make 
 Once Ollama is installed go back to the tool and click "Start Ollama" (this will automatically start Ollama for the tool).
 
 Once installed and started the tool is ready to be used.
+
+join our discord to see further updates before release here
+https://discord.gg/5wkSc3n6X
