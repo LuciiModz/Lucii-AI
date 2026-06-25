@@ -1,5 +1,5 @@
 # Lucii-AI
-Make sure you install the newest release in the release section.
+Make sure you install the newest release in the releases section.
 
 Lucii Ai is a completely free unrestricted ai that can write you code, scripts, sniff networks and so much more.
 
